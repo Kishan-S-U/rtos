@@ -7,7 +7,7 @@ The main objective of this feature is to allow multiple tasks to run in parallel
 
 Memory Layout
 -
-<img src="../res/rtos memory layout" align="center"/>
+<img src="../res/rtos memory layout.jpg" align="center"/>
 The main operating system starts from the bottom of the memory, this runs in the foreground (when any interrupt occurs). The TCBs (Task Control Blocks) are at the very top, right below the default stack pointer. The free area in memory is used for memory allocation, mostly assigned to specific tasks upon request, for data storage.
 
 Startup Behaviour
