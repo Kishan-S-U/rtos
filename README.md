@@ -15,3 +15,10 @@ Prototype Description
 - Programming language: Assembly code
 - Simulation platform: easy68K simulator
 - microprocessor: motorola 68000
+
+Folders Breakdown
+-
+- res: This holds images used in the complete repository.
+- doc: This holds the documentation (complete information about the project)
+- src: This holds the code files
+- test: This holds the test programs
