@@ -1,0 +1,1 @@
+This folder contains test programs. There is a section in the OS code, 'USER APPLICATION TASKS', this is where these test programs must be written (individually/seperatly, do not combine all the test programs in to one program, unless you change the logic).
